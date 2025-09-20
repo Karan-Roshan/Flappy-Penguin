@@ -5,11 +5,10 @@ The project demonstrates the use of CSS variables, gradients, transitions, and k
 
 
 ## Preview
-- Flappy Penguin
 <p align="center">
   <img src="https://github.com/Karan-Roshan/Flappy-Penguin/blob/f707e0d1fb4b4d0560b5937ca9a1d32e56cae60c/Photos/Flappy%20Penguin.png" 
        alt="Flappy Penguin" 
-       width="300">
+       width="500">
 </p>
 
 
